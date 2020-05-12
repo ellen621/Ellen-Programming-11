@@ -25,29 +25,23 @@ public class Main {
 
     //Code your solution to problem number 3 here
     static String problemThree(String s) {
-        StringBuilder answer = new StringBuilder();
+        String answer = "";
+        int count = 0;
         for (int i = 0; i < s.length() ; i++) {
-            if (i == 0) {
-                answer.append(s.substring(i));
-            }
-            else if (s.substring(i-1).equals("a")){
-                answer.append(s.substring(i));
-            }
-            else if (s.substring(i-1).equals("b")){
-                if (!s.substring(i).equals("a")){
-                    answer.append(s.substring(i));
-                }
-                else {
-                    return answer.toString();
-                }
+            switch (s.charAt(i)) {
+                case i == 0:
+                    answer = s.substring(i);
+                    break;
+                case s.charAt(i) >= s.charAt(i-1) && i != 0:
+
             }
         }
-        return answer.toString();
+        return answer;
     }
 
     public static void main(String[] args) {
-        String s ="ba";
-        System.out.println(problemThree(s));
+        String s = "aabcde";
+        System.out.println('a' < 'b');
         /*
         Set s to a string and run your method using s as the parameter
         Run your method in a println statement to determine what the output was

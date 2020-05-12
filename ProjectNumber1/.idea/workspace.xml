@@ -44,7 +44,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Programming-11-Online-master/SchoolProject" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -128,18 +128,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.TestClass.testTwo" />
-      <item itemvalue="JUnit.TestClass.testOne" />
       <item itemvalue="JUnit.TestClass" />
+      <item itemvalue="JUnit.TestClass.testOne" />
       <item itemvalue="JUnit.TestClass.testThree" />
+      <item itemvalue="JUnit.TestClass.testTwo" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TestClass.testThree" />
+        <item itemvalue="JUnit.TestClass" />
         <item itemvalue="JUnit.TestClass.testTwo" />
         <item itemvalue="JUnit.TestClass.testOne" />
-        <item itemvalue="JUnit.TestClass" />
       </list>
     </recent_temporary>
   </component>
@@ -168,54 +168,58 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587422623259">
+    <state x="92" y="92" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588705621689">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="92" y="92" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1587422623259" />
+    <state x="92" y="92" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588705621689" />
     <state x="568" y="318" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587266177592">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="568" y="318" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1587266177592" />
-    <state width="1396" height="218" key="GridCell.Tab.0.bottom" timestamp="1588612037848">
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1588963752590">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="218" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588612037848" />
-    <state width="1396" height="218" key="GridCell.Tab.0.center" timestamp="1588612037848">
+    <state x="500" y="184" key="FileChooserDialogImpl/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588963752590" />
+    <state width="1396" height="218" key="GridCell.Tab.0.bottom" timestamp="1588963267302">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="218" key="GridCell.Tab.0.center/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588612037848" />
-    <state width="1396" height="218" key="GridCell.Tab.0.left" timestamp="1588612037848">
+    <state width="1396" height="218" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588963267302" />
+    <state width="1396" height="218" key="GridCell.Tab.0.center" timestamp="1588963267302">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="218" key="GridCell.Tab.0.left/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588612037848" />
-    <state width="1396" height="218" key="GridCell.Tab.0.right" timestamp="1588612037848">
+    <state width="1396" height="218" key="GridCell.Tab.0.center/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588963267302" />
+    <state width="1396" height="218" key="GridCell.Tab.0.left" timestamp="1588963267302">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="218" key="GridCell.Tab.0.right/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588612037848" />
-    <state width="1396" height="270" key="GridCell.Tab.1.bottom" timestamp="1587696375975">
+    <state width="1396" height="218" key="GridCell.Tab.0.left/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588963267302" />
+    <state width="1396" height="218" key="GridCell.Tab.0.right" timestamp="1588963267302">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="270" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1587696375975" />
-    <state width="1396" height="270" key="GridCell.Tab.1.center" timestamp="1587696375975">
+    <state width="1396" height="218" key="GridCell.Tab.0.right/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588963267302" />
+    <state width="1396" height="270" key="GridCell.Tab.1.bottom" timestamp="1588822663353">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="270" key="GridCell.Tab.1.center/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1587696375975" />
-    <state width="1396" height="270" key="GridCell.Tab.1.left" timestamp="1587696375975">
+    <state width="1396" height="270" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588822663353" />
+    <state width="1396" height="270" key="GridCell.Tab.1.center" timestamp="1588822663353">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="270" key="GridCell.Tab.1.left/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1587696375975" />
-    <state width="1396" height="270" key="GridCell.Tab.1.right" timestamp="1587696375975">
+    <state width="1396" height="270" key="GridCell.Tab.1.center/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588822663353" />
+    <state width="1396" height="270" key="GridCell.Tab.1.left" timestamp="1588822663353">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="270" key="GridCell.Tab.1.right/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1587696375975" />
+    <state width="1396" height="270" key="GridCell.Tab.1.left/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588822663353" />
+    <state width="1396" height="270" key="GridCell.Tab.1.right" timestamp="1588822663353">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="270" key="GridCell.Tab.1.right/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588822663353" />
     <state x="221" y="7" key="SettingsEditor" timestamp="1588285442518">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="221" y="7" key="SettingsEditor/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588285442518" />
-    <state x="415" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1588611955473">
+    <state x="415" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1588963727182">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="415" y="252" key="com.intellij.ide.util.TipDialog/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588611955473" />
+    <state x="415" y="252" key="com.intellij.ide.util.TipDialog/0.0.1440.860/1440.-170.1280.960@0.0.1440.860" timestamp="1588963727182" />
     <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1587869729119">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -228,6 +232,11 @@
           <url>file://$PROJECT_DIR$/src/Tests/TestClass.java</url>
           <line>36</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tests/TestClass.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
